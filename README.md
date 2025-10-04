@@ -78,8 +78,6 @@ youtube_clone/
 
 2. Install dependencies:
 npm install
-# or
-yarn install
 
 3. Create a .env file in the root directory and set environment variables (see next section)
 
